@@ -1,10 +1,10 @@
 # Hi, I'm Augusto Maux! 🛡️
 
-### Python Developer and Internet Computing Student
+### Backend Developer and Internet Computing Student
 Welcome to my GitHub profile. Currently, I am focusing on backend development, especially with Java. However, I also work with Flask (Python framework) for web development.
 
 ### Tech Stacks and Tools
-- Languages (Learning): Java, Python, HTML, CSS, JavaScript
+- Languages (Learning): Java, GO Language, Python, HTML, CSS, JavaScript
 - Frameworks (Learning): Flask (Python), Tailwind (CSS)
 - Version Control: Git, GitHub and Gitlab
 - Code Editors and Enviroments: IntelliJ IDEA, Visual Studio Code and Linux Terminal
@@ -20,7 +20,7 @@ Welcome to my GitHub profile. Currently, I am focusing on backend development, e
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-** Frameworks **
+**Frameworks**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
