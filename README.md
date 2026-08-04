@@ -1,36 +1,16 @@
-# Hi, I'm Augusto Maux! 🛡️
+# Hi, I'm Augusto Maux! 🛡️☕
 
 ### Backend Developer and Internet Computing Student
 Welcome to my GitHub profile. Currently, I am focusing on backend development, especially with Java. However, I also work with Flask (Python framework) for web development.
 
-### Tech Stacks and Tools
-- Languages (Learning): Java, Python, HTML, CSS, JavaScript
-- Frameworks (Learning): Flask (Python), Tailwind (CSS)
-- Version Control: Git and GitHub
-- Code Editors and Enviroments: IntelliJ IDEA, Visual Studio Code and Linux Terminal
+### Technologies and Tools
 
-### Technology and Tools
-
-**Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Frameworks**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-
-**Version Control**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-
-**Enviroments**
-
-![Intellij IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Linux](https://img.shields.io/badge/-Linux-grey?style=flat-square&logo=linux)
+[![JAVA](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white)]()
+[![GO](https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=white)]()
+[![PYTHON](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)]()
+![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
+![INTELLIJ IDEA](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)
+![VS CODE](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![GIT](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
