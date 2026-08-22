@@ -8,7 +8,6 @@ Welcome to my GitHub profile. Currently, I am focusing on backend development, e
 
 <p align="center">
   <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk" />
-  <img src="https://img.shields.io/badge/go-000000?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge" />
