@@ -1,8 +1,7 @@
-<h1 align="center">Hi, I'm Augusto Maux! 🛡️☕</h1>
+<h1 align="center">Hi, I'm Augusto Maux! 🛡️</h1>
 
 ### Backend Developer and Internet Computing Student
-Welcome to my GitHub profile. Currently, I am focusing on backend development, especially with Java. However, I also work with Flask (Python framework) for web development.
-
+Welcome to my GitHub profile. Currently, I am focusing on backend web development, working with Flask (Python framework) for web development.
 
 ### Technologies and Tools
 
